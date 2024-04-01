@@ -5,12 +5,10 @@
   display:flex;
   align-items:center;
   justify-content: center;
-  /* background: linear-gradient(1000deg,#00ffff,rgb(236, 23, 236)) */
-  /* background: linear-gradient(140deg,blue,purple) */
   background-image:url("Image17.jpg");
   background-repeat: no-repeat;
   background-size: 1400px 1100px;
-  /* background-color: darkorchid; */
+ 
   
 
   
@@ -26,21 +24,15 @@
 
 form input {
   border:none;
-  /* border-radius: 30px; */
   outline:0;
   width:80px;
   height:60px;
-  /* font-size:16px; */
   font-size:20px;
-  /* background-color: rgb(26, 219, 100); */
   background-color:saddlebrown;
   margin:2px;
   border-radius: 10px;
   color: white;
-  /* this color:white; is for button color i.e for example for 7 8 9 */
-  /* color: black; */
   font-weight: 900;
-  /* font-weight:bolder; */
   cursor: pointer;
 
 
@@ -102,8 +94,7 @@ form input[type="button"]:hover{
   background-color:darkslategray;
 }
 .DEbutton{
-  /* background-color:lightseagreen; */
-  /* background-color: royalblue; */
+  
   background-color: rgb(199, 39, 39);
 }
 
